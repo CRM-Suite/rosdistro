@@ -3749,6 +3749,10 @@ python-seaborn:
   gentoo: [dev-python/seaborn]
   ubuntu:
     bionic: [python-seaborn]
+python-seekcamera:
+  ubuntu:
+    pip:
+      packages: [seekcamera]
 python-selectors2-pip:
   arch:
     pip:
