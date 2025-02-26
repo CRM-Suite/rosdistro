@@ -3752,7 +3752,7 @@ python-seaborn:
 python-seekcamera:
   ubuntu:
     pip:
-      packages: [seekcamera]
+      packages: [seekcamera-python]
 python-selectors2-pip:
   arch:
     pip:
